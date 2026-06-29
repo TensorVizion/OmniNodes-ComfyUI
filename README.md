@@ -1,2 +1,0 @@
-# OmniNodes-ComfyUI
-Utility Nodes
