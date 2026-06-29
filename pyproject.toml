@@ -1,15 +1,15 @@
 [project]
-name = ""
-description = ""
+name = "TensorVizion"
+description = "Utility Nodes for All Comfy Users"
 version = "1.0.0"
 license = "MIT"
 
 [project.urls]
-Repository = ""
+Repository = "https://github.com/TensorVizion/OmniNodes-ComfyUI"
 #  Used by Comfy Registry https://registry.comfy.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "TensorVizion"
 DisplayName = "ComfyUI-AIT"
 Icon = ""
 includes = [] 
